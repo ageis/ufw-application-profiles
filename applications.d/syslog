@@ -1,0 +1,5 @@
+[syslog]
+title=syslog
+description=Message logging daemon
+ports=514/udp
+

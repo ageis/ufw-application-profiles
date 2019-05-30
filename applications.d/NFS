@@ -1,0 +1,4 @@
+[NFS]
+title=NFS server
+description=NFS and portmap server. Will also need access to mountd, statd and possibly others
+ports=2049,111/tcp|2049,111/udp

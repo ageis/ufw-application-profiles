@@ -1,0 +1,9 @@
+[Socks]
+title=Socks proxy
+description=Socks proxy
+ports=1080/tcp
+
+[Transparent Proxy]
+title=Transparent proxy
+description=Transparent proxy
+ports=8081/tcp

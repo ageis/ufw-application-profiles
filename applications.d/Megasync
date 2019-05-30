@@ -1,0 +1,5 @@
+
+[Megasync]
+title=Megasync
+description=Sync your files to your Mega account
+ports=6342/tcp|6342/udp

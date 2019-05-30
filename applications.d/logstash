@@ -1,0 +1,4 @@
+[logstash]
+title=logstash
+description=An extensible logging pipeline.
+ports=5000/tcp

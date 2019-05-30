@@ -1,0 +1,4 @@
+[Telnet]
+title=Telnet server (insecure)
+description=Telnet server (insecure)
+ports=23/tcp

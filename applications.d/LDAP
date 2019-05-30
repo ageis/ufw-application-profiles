@@ -1,0 +1,4 @@
+[LDAP]
+title=LDAP server
+description=LDAP server
+ports=389/tcp

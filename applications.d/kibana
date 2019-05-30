@@ -1,0 +1,4 @@
+[kibana]
+title=kibana
+description=Explore and visualize your Elasticsearch data.
+ports=5601/tcp

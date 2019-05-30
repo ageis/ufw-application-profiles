@@ -1,0 +1,4 @@
+[spamd]
+title=SpamAssassin
+description=spam filter
+ports=783/tcp

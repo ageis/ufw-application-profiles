@@ -1,0 +1,4 @@
+[LDAPS]
+title=LDAP server (LDAPS)
+description=LDAP server (LDAPS)
+ports=636/tcp

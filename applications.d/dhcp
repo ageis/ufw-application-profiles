@@ -1,0 +1,4 @@
+[DHCP]
+title=dhcp
+description=Dynamic Host Configuration Protocol (DHCP) via IPv4
+ports=67,68/udp

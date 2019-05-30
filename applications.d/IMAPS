@@ -1,0 +1,4 @@
+[IMAPS]
+title=Secure mail server (IMAPS)
+description=Secure mail server (IMAPS)
+ports=993/tcp

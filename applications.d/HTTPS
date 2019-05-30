@@ -1,0 +1,4 @@
+[WWW Secure]
+title=Web Server (HTTPS)
+description=Web Server (HTTPS)
+ports=443/tcp

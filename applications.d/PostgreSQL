@@ -1,0 +1,4 @@
+[PostgreSQL]
+title=PostgreSQL
+description=Fully featured object-relational database management system.
+ports=5433/tcp

@@ -1,0 +1,19 @@
+[Kerberos KDC]
+title=Kerberos v5 KDC server
+description=Kerberos v5 KDC server
+ports=88
+
+[Kerberos Admin]
+title=Kerberos v5 admin
+description=Kerberos v5 server
+ports=749/tcp
+
+[Kerberos Password]
+title=Kerberos v5 password
+description=Kerberos v5 password
+ports=464/udp
+
+[Kerberos Full]
+title=Kerberos v5 server
+description=Kerberos v5 server
+ports=88,749/tcp|464/udp

@@ -1,0 +1,9 @@
+[CUPS]
+title=Common UNIX Printing System server
+description=CUPS is a printing system with support for IPP, samba, lpd, and other protocols.
+ports=631
+
+[IPP]
+title=Cups server (IPP)
+description=Cups server (IPP)
+ports=631

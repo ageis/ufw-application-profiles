@@ -1,0 +1,4 @@
+[IMAP]
+title=Mail server (IMAP)
+description=Mail server (IMAP)
+ports=143/tcp

@@ -1,0 +1,4 @@
+[distcc]
+title=distcc
+description=distribute compilation client/server
+ports=3632

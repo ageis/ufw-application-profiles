@@ -1,0 +1,4 @@
+[POP3]
+title=Mail server (POP3)
+description=Mail server (POP3)
+ports=110/tcp

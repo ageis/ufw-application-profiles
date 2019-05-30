@@ -1,0 +1,4 @@
+[SMTP]
+title=Mail server (SMTP)
+description=Mail server (SMTP)
+ports=25/tcp

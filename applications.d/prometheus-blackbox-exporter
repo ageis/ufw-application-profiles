@@ -1,0 +1,4 @@
+[prometheus-blackbox-exporter]
+title=prometheus-blackbox-exporter
+description=Prometheus exporter for blackbox probing of network endpoints
+ports=9115/tcp

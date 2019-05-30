@@ -1,0 +1,4 @@
+[Samba]
+title=LanManager-like file and printer server for Unix
+description=The Samba software suite is a collection of programs that implements the SMB/CIFS protocol for unix systems, allowing you to serve files and printers to Windows, NT, OS/2 and DOS clients. This protocol is sometimes also referred to as the LanManager or NetBIOS protocol.
+ports=137,138/udp|139,445/tcp

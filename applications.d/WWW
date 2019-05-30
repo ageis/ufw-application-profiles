@@ -1,0 +1,19 @@
+[WWW]
+title=Web Server
+description=Web server
+ports=80/tcp
+
+[WWW Secure]
+title=Web Server (HTTPS)
+description=Web Server (HTTPS)
+ports=443/tcp
+
+[WWW Full]
+title=Web Server (HTTP,HTTPS)
+description=Web Server (HTTP,HTTPS)
+ports=80,443/tcp
+
+[WWW Cache]
+title=Web Server (8080)
+description=Web Server (8080)
+ports=8080/tcp

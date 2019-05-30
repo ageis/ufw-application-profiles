@@ -1,0 +1,4 @@
+[Grafana]
+title=Grafana
+description=Beautiful visualizations for analytics and monitoring
+ports=3000/tcp

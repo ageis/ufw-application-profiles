@@ -1,0 +1,4 @@
+[SNMP]
+title=SNMP
+description=Simple Network Management Protocol
+ports=161,162/tcp,161,162/udp

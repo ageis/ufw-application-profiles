@@ -1,0 +1,4 @@
+[whois]
+title=whois
+description=WHOIS querying protocol (RFC 3912)
+ports=43/tcp

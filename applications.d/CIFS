@@ -1,0 +1,4 @@
+[CIFS]
+title=SMB/CIFS server
+description=SMB/CIFS server
+ports=137,138/udp|139,445/tcp

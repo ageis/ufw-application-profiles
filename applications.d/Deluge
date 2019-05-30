@@ -1,0 +1,4 @@
+[Deluge]
+title=Deluge
+description=Deluge BitTorrent client
+ports=6881:6891/tcp

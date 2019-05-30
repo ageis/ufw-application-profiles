@@ -1,0 +1,4 @@
+[AIM]
+title=AIM Talk
+description=AIM talk protocol
+ports=5190/tcp
