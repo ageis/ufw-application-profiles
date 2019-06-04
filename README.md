@@ -33,6 +33,7 @@ This repository provides application profiles (port numbers and protocol e.g. TC
  * Kerberos
  * kibana
  * KTorrent
+ * L2TP
  * LDAP
  * LDAPS
  * logstash
@@ -53,6 +54,7 @@ This repository provides application profiles (port numbers and protocol e.g. TC
  * POP3
  * POP3S
  * PostgreSQL
+ * PPTP
  * Privoxy
  * Prometheus
  * prometheus-blackbox-exporter
