@@ -1,0 +1,5 @@
+[wsdd]
+title=wsdd Service
+description=wsdd implements a Web Service Discovery host daemon. This enables (Samba) hosts, like your local NAS device, to be found by Web Service Discovery Clients like Windows.
+It also implements the client side of the discovery protocol which allows to search for Windows machines and other devices implementing WSD. This mode of operation is called discovery mode.
+ports=3702/udp|5357/tcp
